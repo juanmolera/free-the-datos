@@ -1,4 +1,4 @@
-# free-the-data-API
+# free-the-datos
 
 This is my final project of the Ironhack data analytics bootcamp and consists of creating an API to serve scraped data from the Internet to users. The main motivation of the project is perfectly reflected in its motto:
 
